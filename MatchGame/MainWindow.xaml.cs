@@ -29,7 +29,7 @@ namespace MatchGame
         {
             InitializeComponent();
 
-            timer.Interval = TimeSpan.FromSeconds(-1);
+            timer.Interval = TimeSpan.FromSeconds(.1);
             timer.Tick += Timer_Tick;
             SetUpGame();
 
@@ -37,9 +37,13 @@ namespace MatchGame
 
         private void Timer_Tick(object sender, EventArgs e)
         {
+            tenthsOfSecondsElapsed++;
+            timeTextBlock.Text = (tenthsOfSecondsElapsed / 10F).ToString("0.0s");
+                
             if (matchesFound == 8)
             {
-                SetUpGame();
+                timer.Stop();
+                timeTextBlock.Text = timeTextBlock.Text + "- Play again?";
             }
         }
 
@@ -63,11 +67,19 @@ namespace MatchGame
 
             foreach (TextBlock textBlock in mainGrid.Children.OfType<TextBlock>())
             {
-                int index = random.Next(animalEmoji.Count);
-                string nextEmoji = animalEmoji[index];
-                textBlock.Text = nextEmoji;
-                animalEmoji.RemoveAt(index);
+                if (textBlock.Name != "timeTextBlock")
+                {
+                    textBlock.Visibility = Visibility.Visible;
+                    int index = random.Next(animalEmoji.Count);
+                    string nextEmoji = animalEmoji[index];
+                    textBlock.Text = nextEmoji;
+                    animalEmoji.RemoveAt(index);
+                }
             }
+
+            timer.Start();
+            tenthsOfSecondsElapsed = 0;
+            matchesFound = 0;
         }
 
 
@@ -87,6 +99,7 @@ namespace MatchGame
 
             else if (textBlock.Text == lastTextBlockClicked.Text)
             {
+                matchesFound++;
                 textBlock.Visibility = Visibility.Hidden;
                 findingMatch = false;
             }
@@ -98,5 +111,15 @@ namespace MatchGame
 
             }
         }
+
+        private void TimeTextBlock_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (matchesFound == 8)
+            {
+                SetUpGame();
+            }
+        }
+
+
     }
 }
