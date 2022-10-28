@@ -1,0 +1,16 @@
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe.config
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\bin\Debug\ExperimentWithControls.pdb
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.AssemblyReference.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.SuggestedBindingRedirects.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\MainWindow.g.cs
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\App.g.cs
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.lref
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\MainWindow.baml
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.g.resources
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.Properties.Resources.resources
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.GenerateResource.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.CoreCompileInputs.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.exe
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\ExperimentWithControls\obj\Debug\ExperimentWithControls.pdb
