@@ -1,0 +1,15 @@
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\bin\Debug\net6.0\PickRandomCards.exe
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\bin\Debug\net6.0\PickRandomCards.deps.json
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\bin\Debug\net6.0\PickRandomCards.runtimeconfig.json
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\bin\Debug\net6.0\PickRandomCards.dll
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\bin\Debug\net6.0\PickRandomCards.pdb
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.AssemblyReference.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfo.cs
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.dll
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\refint\PickRandomCards.dll
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.pdb
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\PickRandomCards.genruntimeconfig.cache
+C:\Users\Donkennie\Documents\KennyProjects\MatchGame\PickRandomCards\obj\Debug\net6.0\ref\PickRandomCards.dll
