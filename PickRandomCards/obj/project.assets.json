@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Donkennie\\.nuget\\packages\\": {}
+    "C:\\Users\\owner\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Donkennie\\Documents\\KennyProjects\\MatchGame\\PickRandomCards\\PickRandomCards.csproj",
+      "projectUniqueName": "C:\\Users\\owner\\Documents\\KennyProjects\\MatchGame\\PickRandomCards\\PickRandomCards.csproj",
       "projectName": "PickRandomCards",
-      "projectPath": "C:\\Users\\Donkennie\\Documents\\KennyProjects\\MatchGame\\PickRandomCards\\PickRandomCards.csproj",
-      "packagesPath": "C:\\Users\\Donkennie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Donkennie\\Documents\\KennyProjects\\MatchGame\\PickRandomCards\\obj\\",
+      "projectPath": "C:\\Users\\owner\\Documents\\KennyProjects\\MatchGame\\PickRandomCards\\PickRandomCards.csproj",
+      "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\owner\\Documents\\KennyProjects\\MatchGame\\PickRandomCards\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Donkennie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
